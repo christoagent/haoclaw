@@ -1,8 +1,8 @@
 - Reference
-https://cdn.jsdelivr.net/gh/qidu/dream-of-clawra@haocun/assets/haocun-dancing.png
+https://cdn.jsdelivr.net/gh/christo1492/haoclaw@main/assets/haocun-dancing.png
 
 - Dancing
-https://cdn.jsdelivr.net/gh/qidu/dream-of-clawra@haocun/assets/haocun-dance-frames
+https://cdn.jsdelivr.net/gh/christo1492/haoclaw@main/assets/haocun-dance-frames
 
 - Selfie in Life
-https://cdn.jsdelivr.net/gh/qidu/dream-of-clawra@haocun/assets/haocun-selfie-frames
+https://cdn.jsdelivr.net/gh/christo1492/haoclaw@main/assets/haocun-selfie-frames
